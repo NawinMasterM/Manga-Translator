@@ -3,7 +3,7 @@
 ## Here is work flow
 
 ### 1. fine tune yolov8 for text detection
-you can follow my code it already set data for you to finetune.
+
 ![image](https://github.com/NawinMasterM/Manga-Translator/blob/main/images/yolo_crop1.png)
 ![image](https://github.com/NawinMasterM/Manga-Translator/blob/main/images/yolo_crop2.png)
 
