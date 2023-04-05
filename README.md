@@ -9,6 +9,7 @@
 
 ### 2. Use trocr to ocr text
 result1: WE WON OVER THE SOUTHERN EDGE SECT!!!
+
 result2: ENDS WITH THE VICTORY OF MOUNT HUA
 
 ### 3. translate in your language
