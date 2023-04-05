@@ -1,5 +1,5 @@
 # Manga-Translator
-
+sawatdee
 ## Here is work flow
 
 ### 1. fine tune yolov8 for text detection
