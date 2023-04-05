@@ -12,4 +12,4 @@
 - result2: ENDS WITH THE VICTORY OF MOUNT HUA
 
 ### 3. translate in your language
-- chose model for your language
+- choose model for your language
