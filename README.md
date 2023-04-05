@@ -8,5 +8,8 @@
 ![image](https://github.com/NawinMasterM/Manga-Translator/blob/main/images/yolo_crop2.png)
 
 ### 2. Use trocr to ocr text
-result: WE WON OVER THE SOUTHERN EDGE SECT!!!
+result1: WE WON OVER THE SOUTHERN EDGE SECT!!!
+result2: ENDS WITH THE VICTORY OF MOUNT HUA
+
 ### 3. translate in your language
+- 
